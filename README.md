@@ -2,8 +2,8 @@
 
 ## Autores :writing_hand:
 * Hernan Buitrago 
- * hf.buitrago10@uniandes.edu.co 
- * 201512807
+- hf.buitrago10@uniandes.edu.co 
+- 201512807
 * Daniel Aguilera 
  * d.aguilera@uniandes.edu.co 
  * 202010592

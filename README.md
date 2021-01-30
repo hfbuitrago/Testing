@@ -14,11 +14,8 @@ La estructura del laboratorio es la siguiente:
 * DiscLib: Este directorio contiene  el código de base que se entrega para el funcionamiento del curso. Dentro de este directorio encuentran:
 
 ```
-    |-- ADT: Directorio con los Tipos Abstractos de Datos del curso
-
-    |-- DataStructures: Directorio con todas las estructuras de datos y archivos auxiliares para sucorrecto funcionamiento
-
-    |-- Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
-
-    |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+|-- ADT: Directorio con los Tipos Abstractos de Datos del curso
+|-- DataStructures: Directorio con todas las estructuras de datos y archivos auxiliares para sucorrecto funcionamiento
+|-- Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
+|-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 ```

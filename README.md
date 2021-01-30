@@ -1,4 +1,4 @@
-# Laboratorio No. 1
+# Laboratorio No. 1 :rocket:
 
 ## Autores :writing_hand:
 * Hernan Buitrago hf.buitrago10@uniandes.edu.co

@@ -1,7 +1,7 @@
 # Laboratorio No. 1 :rocket:
 
 ## Autores :writing_hand:
-* Hernan Buitrago 
+* Hernán Buitrago 
   * hf.buitrago10@uniandes.edu.co
   * 201512807
 * Daniel Aguilera

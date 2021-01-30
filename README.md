@@ -13,7 +13,7 @@ La estructura del laboratorio es la siguiente:
 * Docs
 * DiscLib
 
-
+```
     |-- ADT:  Directorio con los Tipos Abstractos de Datos del curso
 
     |--DataStructures: Directorio con todas las estructuras de datos y archivos auxiliares para su     correcto funcionamiento
@@ -21,3 +21,4 @@ La estructura del laboratorio es la siguiente:
     |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+```

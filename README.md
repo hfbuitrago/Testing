@@ -1,8 +1,12 @@
 # Laboratorio No. 1 :rocket:
 
 ## Autores :writing_hand:
-* Hernan Buitrago hf.buitrago10@uniandes.edu.co 201512807
-* Daniel Aguilera d.aguilera@uniandes.edu.co 202010592
+* Hernan Buitrago 
+** hf.buitrago10@uniandes.edu.co 
+** 201512807
+* Daniel Aguilera 
+** d.aguilera@uniandes.edu.co 
+** 202010592
 
 ## Descripción :page_facing_up:
 

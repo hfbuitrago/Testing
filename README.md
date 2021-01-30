@@ -6,12 +6,12 @@
 
 ## Descripción :page_facing_up:
 
-La estructura del laboratorio es la siguiente:
+La estructura del repositoritorio es la siguiente:
 
-* App: Este directorio se utiliza para los archivos python desarrollados para responder a los retos del curso,
-* Data: Este directorio contiene los datos de prueba para cada uno de los retos.
-* Docs: Este directorio tiene documentos anexos al proyecto donde se explican decisiones de diseño, análisis de algoritmos y en general información asociada al código desarrollado por cada grupo
-* DiscLib: Este directorio contiene  el código de base que se entrega para el funcionamiento del curso. Dentro de este directorio encuentran:
+* App: Este directorio contiene los archivos python desarrollados.
+* Data: Este directorio contiene los datos de prueba.
+* Docs: Este directorio contiene los documentos anexos al proyecto donde se explican las decisiones de diseño, análisis de algoritmos y en general información asociada al código desarrollado.
+* DiscLib: Este directorio contiene el código base que se entrega para el funcionamiento del curso. Dentro de este directorio se encuentran:
 
 ```
 |-- ADT: Directorio con los Tipos Abstractos de Datos del curso.

@@ -1,10 +1,10 @@
-# Laboratorio No. 1 :wave:
+# Laboratorio No. 1
 
-## Autores :black_nib:
+## Autores :writing_hand:
 * Hernan Buitrago hf.buitrago10@uniandes.edu.co
 * Daniel Aguilera 
 
-## Descripción :rocket:
+## Descripción :page_facing_up:
 
 La estructura del laboratorio es la siguiente:
 

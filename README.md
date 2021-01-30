@@ -10,7 +10,7 @@
 
 ## Descripción :page_facing_up:
 
-La estructura del repositorio es la siguiente:
+La estructura del repositorio es la siguiente:c
 
 * App: Este directorio contiene los archivos python desarrollados.
 * Data: Este directorio contiene los datos de prueba.

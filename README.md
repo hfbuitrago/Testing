@@ -2,5 +2,5 @@
 
 ## Autores :black_nib:
 
-* Hernan Buitrago hf.buitrago10@uniandes.edu.co
+* Hernan Buitrago [hf.buitrago10@uniandes.edu.co]
 * Daniel 

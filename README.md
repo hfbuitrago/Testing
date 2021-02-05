@@ -1,20 +1,22 @@
-# Laboratorio No. 1 :rocket:
+# Laboratorio No. 2 :fire:
 
 ## Autores :writing_hand:
 * Hernán Buitrago 
   * hf.buitrago10@uniandes.edu.co
   * 201512807
+  * Estudiante :one:
 * Daniel Aguilera
   * d.aguilera@uniandes.edu.co
   * 202010592
+  * Estudiante :two:
 
 ## Descripción :page_facing_up:
 
-La estructura del repositorio es la siguiente:c
+La estructura del repositorio es la siguiente:
 
 * App: Este directorio contiene los archivos python desarrollados.
 * Data: Este directorio contiene los datos de prueba.
-* Docs: Este directorio contiene los documentos anexos al proyecto donde se explican las decisiones de diseño, análisis de algoritmos y en general la información asociada al código desarrollado.
+* Docs: Este directorio contiene los documentos anexos al proyecto donde se explican las decisiones de diseño, análisis de algoritmos y en general toda la información asociada al código desarrollado.
 * DiscLib: Este directorio contiene el código base que se entrega para el funcionamiento del curso. Dentro de este directorio se encuentran:
 
 ```

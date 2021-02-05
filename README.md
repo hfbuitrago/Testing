@@ -1,10 +1,10 @@
 # Laboratorio No. 2 :fire:
 
 ## Autores :writing_hand:
-* Hernán Buitrago :student: :one:
+* Hernán Buitrago :one:
   * hf.buitrago10@uniandes.edu.co
   * 201512807
-* Daniel Aguilera :student: :two:
+* Daniel Aguilera :two:
   * d.aguilera@uniandes.edu.co
   * 202010592
 
